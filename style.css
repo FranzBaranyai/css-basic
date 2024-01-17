@@ -1,0 +1,28 @@
+
+.ersteÜberschrift {
+    color: red;
+    font-size: 50px;
+}
+
+.zweiteÜberschrift{
+    color: green;
+}
+
+.ninja{
+    width: 300px; height: 300px;
+}
+div{
+    border: 5px solid red;
+}
+h1 {
+    color: blue;
+}
+
+#third span {
+    visibility:hidden ;
+}
+
+#fifth p {
+    display: none;
+}
+    
